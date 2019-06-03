@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -14,6 +14,8 @@ public class Classe {
         //Criando objeto do tipo Carro usando o contrutor vazio
         Carro ObjCarro = new Carro();
         
+	//ALTEREI AQUI!!
+
         //Criando objeto do tipo Onibus usando construtor com parâmetros
         Onibus ObjOnibus = new Onibus("Mercedez Bens","Paradiso",50);
         
